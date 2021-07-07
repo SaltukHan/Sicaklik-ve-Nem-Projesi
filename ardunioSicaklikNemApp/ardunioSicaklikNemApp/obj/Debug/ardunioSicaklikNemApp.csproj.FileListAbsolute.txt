@@ -1,0 +1,10 @@
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\bin\Debug\ardunioSicaklikNemApp.exe.config
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\bin\Debug\ardunioSicaklikNemApp.exe
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\bin\Debug\ardunioSicaklikNemApp.pdb
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.Form1.resources
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.Properties.Resources.resources
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.csproj.GenerateResource.cache
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.csproj.CoreCompileInputs.cache
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.exe
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.pdb
+D:\Veri İletişimi\Proje Ödevi\ardunioSicaklikNemApp\ardunioSicaklikNemApp\obj\Debug\ardunioSicaklikNemApp.csproj.AssemblyReference.cache
